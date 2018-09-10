@@ -5,8 +5,6 @@
  *      Author: hb4ch
  */
 
-#define HYPER_Q 1
-
 #include <cstdio>
 #include <cstdlib>
 #include <sys/stat.h>
